@@ -3,4 +3,5 @@ import java.io.*;
 public static void main(String args[]) throws IOException 
 {
  System.out.println("welcome to java programing");
+  System.out.println("welcome to java programing");
 }
